@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **rajashekarganiger2002@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/18rWpUl_9PpGn6mzb4ufFGql9eA8L1RQk/view?usp=drive_link](https://drive.google.com/file/d/18rWpUl_9PpGn6mzb4ufFGql9eA8L1RQk/view?usp=drive_link)
+
 
 
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajashekar-2002&layout=compact&langs_count=8&theme=dark&card_width=500" alt="Top Languages" />
