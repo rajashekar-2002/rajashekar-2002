@@ -10,7 +10,7 @@
 - 📫 How to reach me **rajashekarganiger2002@gmail.com**
 
 
-
+![](https://github-readme-stats.vercel.app/api?username=anandsagar00&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajashekar-2002&layout=compact&langs_count=8&theme=dark&card_width=500" alt="Top Languages" />
 
