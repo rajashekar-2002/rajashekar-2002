@@ -9,7 +9,13 @@
 
 - 📫 How to reach me **rajashekarganiger2002@gmail.com**
 
-
+<div style="display: flex; justify-content: space-between;">
+    <img src="https://github-readme-stats.vercel.app/api?username=rajashekar-2002&theme=highcontrast&show_icons=true&hide_border=false&count_private=true" alt="rajashekar-2002's Stats" style="width: 30%;">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajashekar-2002&theme=highcontrast&hide_border=false" alt="rajashekar-2002's Streak" style="width: 30%;">
+    <div style="width: 30%; display: flex; justify-content: center;">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajashekar-2002&theme=highcontrast&show_icons=true&hide_border=false&layout=compact" alt="rajashekar-2002's Top Languages">
+    </div>
+</div>
 
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajashekar-2002&layout=compact&langs_count=8&theme=dark&card_width=500" alt="Top Languages" />
 
