@@ -9,15 +9,19 @@
 
 - 📫 How to reach me **rajashekarganiger2002@gmail.com**
 
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-blue?style=flat-square&logo=github)](https://github.com/rajashekar-2002)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/rajashekar-ganiger-a6610121b/)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail)](mailto:rajashekarganiger2002@gmail.com)
+
+
+
 <div style="display: flex; justify-content: space-between;">
-    <img src="https://github-readme-stats.vercel.app/api?username=rajashekar-2002&theme=highcontrast&show_icons=true&hide_border=false&count_private=true" alt="rajashekar-2002's Stats" style="width: 30%;">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajashekar-2002&theme=highcontrast&hide_border=false" alt="rajashekar-2002's Streak" style="width: 30%;">
-    <div style="width: 30%; display: flex; justify-content: center;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajashekar-2002&theme=highcontrast&show_icons=true&hide_border=false&layout=compact" alt="rajashekar-2002's Top Languages">
-    </div>
+    <img src="https://github-readme-stats.vercel.app/api?username=rajashekar-2002&theme=highcontrast&show_icons=true&hide_border=false&count_private=true" alt="rajashekar-2002's Stats" style="width: 51%;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajashekar-2002&theme=highcontrast&show_icons=true&hide_border=false&layout=compact" alt="rajashekar-2002's Top Languages" style="width: 39%; display: flex; justify-content: center;">
 </div>
 
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajashekar-2002&layout=compact&langs_count=8&theme=dark&card_width=500" alt="Top Languages" />
+
+  
 
 
 <h3 align="left">Connect with me:</h3>
