@@ -1,13 +1,7 @@
 <h1 align="center">Hi 👋, I'm rajashekar-ganiger</h1>
 <h3 align="center">A final-year BE student with a passion for backend development, database management, and all things Java .</h3>
 
-- 🌱 I’m currently learning **Java**
-
-- 👨‍💻 All of my projects are available at [https://github.com/rajashekar-2002](https://github.com/rajashekar-2002)
-
-- 💬 Ask me about **Projects, YouTube-channel**
-
-- 📫 How to reach me **rajashekarganiger2002@gmail.com**
+- 🌱 I’m currently learning **Spring boot**
 
 <h3 align="left">Connect with me:</h3>
 
